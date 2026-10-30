@@ -1,0 +1,74 @@
+{
+  "schemaId": "urn:gala:schema:lock:2.0.0",
+  "schemaVersion": "2.0.0",
+  "repositorySchemaVersion": "3.8.0",
+  "resolvedAt": "2026-10-21T00:00:00.000Z",
+  "resolver": {
+    "package": "@rathnasgala2/publish-action",
+    "version": "0.1.0",
+    "integrity": "sha256:400b256f8df9b996a0661998a36dece10bcf5ebae5f4a3f30e49658ff884014e",
+    "registry": "https://local-development.invalid/rathnasgala2/"
+  },
+  "schemas": {
+    "package": "@rathnasgala2/schemas",
+    "version": "3.25.1",
+    "integrity": "sha256:d4f360a3285f9395aa31cae0a2e1b6a677b52683f92947902076cf3c365c10d2",
+    "registry": "https://registry.npmjs.org/",
+    "contractVersion": "3.0.0",
+    "compatibleWith": "^3.0.0"
+  },
+  "template": {
+    "package": "@rathnasgala2/template",
+    "version": "4.7.0",
+    "integrity": "sha256:4bf6878ca27939ba8125fc71c7632d10e60f8bbf77771a0b1b92ce06185b35ed",
+    "registry": "https://registry.npmjs.org/",
+    "contractVersion": "4.1.0",
+    "compatibleWith": "^4.0.0",
+    "templateModules": []
+  },
+  "theme": {
+    "package": "@rathnasgala2/theme-default",
+    "version": "4.2.0",
+    "integrity": "sha256:d4eb5dd5b0ca12391d82cfce8da2ec351bf1b9438bd99fb7a534a0249ab09885",
+    "registry": "https://registry.npmjs.org/",
+    "contractVersion": "4.1.0",
+    "compatibleWith": "^4.0.0"
+  },
+  "publisher": [
+    {
+      "package": "@rathnasgala2/publish-action",
+      "version": "0.1.0",
+      "integrity": "sha256:400b256f8df9b996a0661998a36dece10bcf5ebae5f4a3f30e49658ff884014e",
+      "registry": "https://local-development.invalid/rathnasgala2/",
+      "contractVersion": "2.0.0",
+      "compatibleWith": "^2.0.0"
+    },
+    {
+      "package": "@rathnasgala2/publish-kernel",
+      "version": "0.1.1",
+      "integrity": "sha256:8725560089293d0e58069eda3636e4ddc5ad1e4a66aba27b76325cc470bcff1a",
+      "registry": "https://local-development.invalid/rathnasgala2/",
+      "contractVersion": "2.0.0",
+      "compatibleWith": "^2.0.0"
+    },
+    {
+      "package": "@rathnasgala2/adapter-protocol",
+      "version": "0.2.1",
+      "integrity": "sha256:adb7e590d3db457c5fa559f2a91e4f52c69d35e2068e6ec0fbbe05b14e669995",
+      "registry": "https://local-development.invalid/rathnasgala2/",
+      "contractVersion": "2.0.0",
+      "compatibleWith": "^2.0.0"
+    },
+    {
+      "package": "@rathnasgala2/adapter-github-pages",
+      "version": "0.1.3",
+      "integrity": "sha256:cfdd7ac565a886814820b39a70b3e485785e05f3f5f78e093545383936536e63",
+      "registry": "https://registry.npmjs.org/",
+      "contractVersion": "2.0.0",
+      "compatibleWith": "^2.0.0"
+    }
+  ],
+  "dependencies": [],
+  "dependencyDag": [],
+  "lockDigest": "sha256:c2376877ec316997d5d740a4496119bd68736551fd16ed371ba67b17c5b400a9"
+}
