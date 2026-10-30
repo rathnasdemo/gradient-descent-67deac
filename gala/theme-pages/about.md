@@ -4,6 +4,7 @@ schemaVersion: 2.0.0
 id: 01a18d9d-79e5-7bd9-a9ba-c075bba6eebd
 kind: page
 title: About
+description: About The Gradient Descent.
 language: en-US
 authors:
 - 01a18d9d-79e5-7c39-be94-b1e4e492d24b
@@ -15,16 +16,10 @@ slug: about
 redirects: []
 extensions: {}
 ---
+The Gradient Descent publishes videos on YouTube as [The Gradient Descent](https://www.youtube.com/@OfficialGradientDescent/videos).
 
-This publication is a place for considered work: finished essays, useful field
-notes, and the ideas that become clearer through writing.
+The articles on this site are written versions of those videos, each one linked to the original.
 
-## Editorial principles
-
-- Prefer evidence to certainty.
-- Make the useful detail easy to find.
-- Revise in public when the facts change.
-- Keep ownership of the archive and its history.
-
-It is created and published with Galascribe, while its Markdown content and
-publication settings remain in this repository.
+<!-- galascribe:demo-notice -->
+**This is a preview.** Galascribe built this site from The Gradient Descent's videos to show what a written version of the channel could look like. The hasn't claimed it yet, and it is hidden from search engines until then. Questions: support@galascribe.com.
+<!-- /galascribe:demo-notice -->
