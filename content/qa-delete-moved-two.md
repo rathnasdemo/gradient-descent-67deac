@@ -11,8 +11,10 @@ tags: []
 status: unlisted
 createdAt: '2026-11-24T21:55:23.310Z'
 publishedAt: '2026-11-24T21:55:45.216Z'
-slug: qa-delete-check-two
-redirects: []
+updatedAt: '2026-11-24T22:00:20.849Z'
+slug: qa-delete-moved-two
+redirects:
+  - /qa-delete-check-two
 extensions: {}
 ---
 A short test post. It will be removed.
