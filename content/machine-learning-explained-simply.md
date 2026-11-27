@@ -1,28 +1,31 @@
 ---
 schemaId: urn:gala:schema:content-frontmatter:2.0.0
-schemaVersion: 2.0.0
+schemaVersion: '2.0.0'
 id: 01a18d9c-ab06-7ffa-ae0e-490ac5f70075
 kind: article
 title: Machine Learning Explained Simply (In 12 Minutes)
-description: 'A plain-language tour of machine learning: the four core components, how models train and get evaluated, and the main types of learning, with everyday analogies throughout.'
+description: "A plain-language tour of machine learning: the four core components, how models train and get evaluated, and the main types of learning, with everyday analogies throughout."
 language: en-US
 authors:
-- 01a18d9d-79e5-7c39-be94-b1e4e492d24b
+  - 01a18d9d-79e5-7c39-be94-b1e4e492d24b
 tags:
-- machine-learning
-- ai
-- data
-- training
-- beginners
+  - machine-learning
+  - ai
+  - data
+  - training
+  - beginners
 status: published
 createdAt: '2026-02-25T12:00:01.000Z'
 publishedAt: '2026-02-25T12:00:01.000Z'
+updatedAt: '2026-11-27T05:14:17.766Z'
 slug: machine-learning-explained-simply
 hero:
   path: assets/content-machine-learning-explained-simply-hero.jpg
   alt: Thumbnail of the video "Machine Learning Explained Simply (In 12 Minutes)"
   role: informative
 redirects: []
+action:
+  kind: follow
 extensions: {}
 ---
 *Adapted from the video [Machine Learning Explained Simply (In 12 Minutes)](https://www.youtube.com/watch?v=Au1OxVSyGas)*
@@ -153,3 +156,10 @@ Machine learning is a fascinating and constantly evolving world. But at the core
 If you want to learn more, I've got a free ebook called Machine Learning Simplified. It goes over all the concepts I've covered here, with a deeper dive into the different algorithms used and more of the fundamentals. No scary math or complex jargon.
 
 *[Watch the full video on YouTube](https://www.youtube.com/watch?v=Au1OxVSyGas)*
+
+```quote
+text: This block is a live check of the quote fence on a test site.
+name: Galascribe test
+role: Quote block check
+url: https://app.galascribe.com/
+```
