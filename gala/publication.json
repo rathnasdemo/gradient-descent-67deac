@@ -13,5 +13,12 @@
     "terms": { "title": "Terms", "body": "gala/theme-pages/terms.md" },
     "privacy": { "title": "Privacy", "body": "gala/theme-pages/privacy.md" }
   },
+  "postAction": {
+    "kind": "link",
+    "heading": "Start your own site",
+    "text": "Write on a site you own, with your own domain.",
+    "label": "Try Galascribe",
+    "url": "https://app.galascribe.com/"
+  },
   "extensions": {}
 }
